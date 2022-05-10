@@ -5,3 +5,9 @@ h2 {
     background-color: beige;
     text-align: center;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
