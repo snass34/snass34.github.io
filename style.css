@@ -11,20 +11,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-#page-wrap { 
-    position: absolute; 
-    left: 50%; 
-    width: 600px;
-    margin-left: -400px;
-  }
 
 /*CENTER WEBSITE*/
-/*.content {
+.content {
     max-width: 1500px;
     margin: auto;
     background: white;
     padding: 10px;
-}*/
+}
 
 /*NAVIGATION BAR*/
 .topnav {
