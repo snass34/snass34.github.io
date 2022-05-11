@@ -14,7 +14,7 @@ body {
 #page-wrap { 
     position: absolute; 
     left: 50%; 
-    width: 800px;
+    width: 600px;
     margin-left: -400px;
   }
 
