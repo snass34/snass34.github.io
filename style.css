@@ -49,3 +49,6 @@ body {
 }
 
 /*img formatting*/
+img {
+    border: 5px solid #555;
+}
